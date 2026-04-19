@@ -1,0 +1,2 @@
+
+Homework 7, first time using GitHub and making a token (we used the classic version). Also a folder was created with the purpose of learning how to add a new file to the project. (This is the new file btw ) 
